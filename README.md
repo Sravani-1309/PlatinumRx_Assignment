@@ -1,5 +1,7 @@
 This repository contains the complete solution for a Data Analyst Assignment using SQL, Excel, and Python. The project demonstrates how to design databases, analyze data using spreadsheets, and implement basic logic using Python scripts. All components are organized neatly into separate folders for easy navigation.
+
 📌 Summary
+
 ✔ SQL
 This section includes table creation, sample data insertion, and analytical queries for both Hotel and Clinic systems.
 Key tasks include:
