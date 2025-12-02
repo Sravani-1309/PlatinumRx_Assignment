@@ -2,21 +2,24 @@ This repository contains the complete solution for a Data Analyst Assignment usi
 
 📌 Summary
 
-✔ SQL
+✔ SQL:
+
 This section includes table creation, sample data insertion, and analytical queries for both Hotel and Clinic systems.
 Key tasks include:
 -Creating clean and normalized database schemas
 -Inserting sample data for testing
 -Writing queries to identify last bookings, calculate billing amounts, determine most/least ordered items, and compute monthly profitability
 
-✔ Excel
+✔ Excel:
+
 The Excel file focuses on time-based ticket analysis using formulas and pivot tables.
 It includes:
 -Using VLOOKUP / INDEX-MATCH to fill missing values
 -Adding helper columns to extract dates, hours, and logical checks (same day/hour)
 -Using COUNTIF to calculate outlet-wise ticket counts for same-day and same-hour closures
 
-✔ Python
+✔ Python:
+
 Two simple Python scripts demonstrate logical problem solving.
 These scripts include:
 -Converting minutes into a readable “hours + minutes” format
