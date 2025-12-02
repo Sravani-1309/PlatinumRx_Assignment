@@ -1,4 +1,4 @@
-This repository contains the complete solution for a Data Analyst Assignment using SQL, Excel, and Python. The project demonstrates how to design databases, analyze data using spreadsheets, and implement basic logic using Python scripts. All components are organized neatly into separate folders for easy navigation.
+This repository showcases my work on an assignment involving SQL, Excel-based analysis, and Python scripts. The project demonstrates how to design databases, analyze data using spreadsheets, and implement basic logic using Python scripts. All components are organized neatly for easy navigation.
 
 📌 Summary
 
