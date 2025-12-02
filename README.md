@@ -6,7 +6,6 @@ This repository contains the complete solution for a Data Analyst Assignment usi
 
 This section includes table creation, sample data insertion, and analytical queries for both Hotel and Clinic systems.
 Key tasks include:
-
 -Creating clean and normalized database schemas
 -Inserting sample data for testing
 -Writing queries to identify last bookings, calculate billing amounts, determine most/least ordered items, and compute monthly profitability
